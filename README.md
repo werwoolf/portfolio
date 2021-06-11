@@ -1,2 +1,2 @@
 # portfolio
-my resyme
+short information about me
