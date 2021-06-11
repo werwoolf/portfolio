@@ -1,0 +1,109 @@
+body {
+  background: #f5f7fa;
+  font-family: 'Montserrat', sans-serif;
+  position: absolute;
+}
+.main-container {
+  display: flex;
+  flex-direction: row-reverse;
+  width: 1200px;
+  background-color: white;
+  margin: 40px;
+}
+.main-contain-section {
+  padding: 30px 90px;
+}
+.about-my-prof {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 17px;
+  color: black;
+  margin-bottom: 20px;
+}
+.my-name {
+  margin: 0 0 25px 0;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 45px;
+  line-height: 55px;
+  color: black;
+}
+.about-me-descripr {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #6d6d6d;
+  width: 400px;
+}
+.about-my-section {
+  margin: 0 0 40px 0;
+}
+.sidebar-section {
+  width: 250px;
+  background-color: #21391e;
+  color: #4ace16;
+  padding-top: 40px;
+  border-radius: 5px;
+}
+.contacts {
+  margin: 10px 0 0 10px;
+}
+.sidebar-title {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 27px;
+  color: #fff;
+  margin: 8px;
+  padding: 0 0 0 15px;
+}
+.type-contact {
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+  color: #fff;
+  margin: 10px 0 0 10px;
+}
+.cont-number {
+  /* width: 157px; */
+  height: 48px;
+  color: #284a70;
+  font-size: 14px;
+  line-height: 24px;
+}
+.ul-side {
+  padding: 0 0 0 40px;
+}
+
+.soft-skill {
+  margin: 50px 0 0 10px;
+}
+.soft-skill-item {
+  color: #fb6d3a;
+}
+.soft-skill-item-text {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #fff;
+}
+.tech-skill {
+  margin: 50px 0 0 10px;
+}
+.tech-skill-item {
+  color: #fb6d3a;
+}
+.tech-skill-item-text {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #fff;
+}
+
+img {
+  width: 250px ;
+}
