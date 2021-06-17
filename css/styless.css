@@ -1,6 +1,3 @@
-a:visited {
-color : #c9a512;
-}
 body {
   background: #f5f7fa;
   font-family: 'Montserrat', sans-serif;
@@ -72,7 +69,7 @@ body {
 .cont-number {
   /* width: 157px; */
   height: 48px;
-  color: #c9a512;
+  color: #daee6b;
   font-size: 14px;
   line-height: 24px;
 }
